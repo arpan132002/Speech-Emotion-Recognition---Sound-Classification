@@ -16,3 +16,6 @@ The **Speech Emotion Recognition and Sound Classification** project aims to clas
 
 - Python 3.7+
 - Libraries: TensorFlow, Keras, librosa, NumPy, pandas, scikit-learn
+
+## Acknowledgements
+- Librosa for audio processing
