@@ -11,6 +11,7 @@ The **Speech Emotion Recognition and Sound Classification** project aims to clas
 - **Preprocessing**: Includes audio feature extraction techniques such as Mel-Frequency Cepstral Coefficients (MFCCs) and spectrograms.
 - **Model Training**: Utilizes machine learning models like Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for classification tasks.
 - **Evaluation**: Provides performance metrics such as accuracy, precision, recall, and F1-score for both emotion recognition and sound classification tasks.
+Achieved Validation accuracy of 72.32%
 
 ## Requirements
 
